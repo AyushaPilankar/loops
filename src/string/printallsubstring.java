@@ -8,7 +8,8 @@ public class printallsubstring {
                 System.out.println(s.substring(i,j));
 
             }
-            System.out.println();
+//            break;
+//            System.out.println();
         }
     }
 }
