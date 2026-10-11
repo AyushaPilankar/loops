@@ -22,7 +22,7 @@ public class checkifarrissorted {
 
         }
 
-                if (flag = false) System.out.print("not sorted");
+                if (flag == false) System.out.print("not sorted");
                 else System.out.print("sorted");
 
     }
